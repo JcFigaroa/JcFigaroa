@@ -1,13 +1,7 @@
 
 
-# 👋 Hi! I'm JcFigaroa – Junior Full-Stack Developer
+# Hi! I'm JcFigaroa | .NET Backend Developer | AD ICT Student at Fontys
 
-# GitHub profile is under construction... 
-
-## 🔧 Tech Stack
-  HTML, CSS, JavaScript
-  .NET Core Web APIs
-  React
 
 ## 📫 Connect with me
 - Email: <jeancarlosfigaroa3@gmail.com>  
